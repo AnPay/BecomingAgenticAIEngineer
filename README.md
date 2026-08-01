@@ -15,7 +15,7 @@ Hi! I'm **Payal**.
 
 This repository documents my journey of becoming an AI Engineer specializing in Agentic AI.
 
-As I explore AI systems, I document my understanding through concise explanations, hands-on projects, technical notes, and reflections. The goal is to deepen my knowledge by learning, explaining, building, and continuously improving.
+Every day, I pick one technical topic related to AI engineering and explain it in about a minute. After receiving feedback, I refine my explanation and document the key learnings here.
 
 This is intentionally a **learning journal**, not a collection of polished tutorials. Some ideas here reflect my understanding at a particular point in time and may evolve as I learn more.
 
@@ -87,18 +87,11 @@ The objective is continuous improvement—not perfection.
 
 ---
 
-## 🌱 Philosophy
+## 🎙️ Why One Minute?
 
-This repository is not about appearing to know everything.
+One minute is long enough to explain an idea clearly but short enough to encourage consistency.
 
-It is about documenting:
-
-- What I understood today
-- What challenged me
-- What I learned after feedback
-- How my thinking evolved over time
-
-Learning is a journey, and this repository captures that journey one concept at a time.
+The objective isn't perfection—it's to build the habit of thinking clearly and communicating technical concepts with confidence.
 
 ---
 
@@ -110,4 +103,4 @@ Learning is always better when it's collaborative.
 
 ---
 
-> **"The goal isn't to know everything. The goal is to understand one concept better than yesterday."**
+> **"If you can't explain it simply, you probably don't understand it well enough."**
