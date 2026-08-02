@@ -1,5 +1,15 @@
 # Embeddings
 
+Imagine asking an AI:
+
+> "What's the capital of India?"
+
+To us, it's just a simple sentence. But to a neural network, it's nothing more than a sequence of symbols.
+
+Before an LLM can understand or reason about language, those symbols must be transformed into something it can process. That's where **embeddings** come in.
+
+Embeddings convert language into meaningful numerical representations, enabling models to understand relationships between words rather than treating them as isolated pieces of text.
+
 ## What are Embeddings?
 
 Embeddings are **dense numerical vector representations of tokens** that capture their semantic meaning.
@@ -124,7 +134,17 @@ Embeddings are used in:
 | No semantic information | Encodes semantic relationships |
 
 ---
+## Final Thought
 
+The next time you hear someone say, "The model understands language," remember:
+
+It doesn't understand words.
+
+It understands vectors.
+
+Embeddings are the bridge that makes that possible.
+
+---
 ## Common Misconceptions
 
 ### Embeddings are not token IDs.
@@ -134,6 +154,7 @@ Token IDs uniquely identify tokens.
 Embeddings represent the semantic meaning of those tokens.
 
 ---
+
 
 ### RoPE does not calculate semantic similarity.
 
