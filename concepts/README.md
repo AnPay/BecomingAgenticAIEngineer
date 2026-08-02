@@ -6,11 +6,13 @@ Each concept is written in my own words after researching, explaining, receiving
 
 Every note follows a consistent structure:
 
+- Hook
 - What is it?
 - Why does it matter?
 - How does it work?
 - Example
 - Common misconceptions
+- Final thought
 - References
 
 The objective is to build understanding—not merely collect definitions.
